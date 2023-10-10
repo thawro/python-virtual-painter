@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "project_name"
+name = "python-virtual-painter"
 version = "0.1.0"
 description = ""
 authors = ["thawro <tomaszhawro.kontakt@gmail.com>"]
@@ -30,6 +30,7 @@ ipykernel = "^6.25.1"
 opencv-python = "^4.8.0.76"
 kornia = "^0.7.0"
 moviepy = "^1.0.3"
+mediapipe = "^0.10.5"
 
 [tool.poetry.group.dev.dependencies]
 pylint = "^2.17.4"
